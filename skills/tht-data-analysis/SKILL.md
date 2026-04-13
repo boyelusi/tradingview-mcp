@@ -18,7 +18,7 @@ You are performing THT technical analysis on a TradingView chart.
 Get latest values for bars:
 1. `data_get_study_values` — get the current numeric values from THT indicators
 
-# Step 3: Report
+## Step 3: Report
 
 Provide the analysis:
 - Current THT Multi Timeframe BX #1
